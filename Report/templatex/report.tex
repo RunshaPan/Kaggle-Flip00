@@ -1,0 +1,68 @@
+\documentclass{amsart}
+\synctex=1
+
+%=================================================================
+% 
+\newcount\DraftStatus  % 0 suppresses notes to selves in text
+\DraftStatus=1   % TODO: set to 0 for final version
+%=================================================================
+
+%=================================================================
+\usepackage{comment}
+\usepackage{graphicx}
+\usepackage{epstopdf}
+\usepackage{subfigure}
+%=================================================================
+%
+\includecomment{JournalOnly}  
+\includecomment{ConferenceOnly}  
+\includecomment{TulipStyle}
+%
+%=================================================================
+\input{preamble}
+
+
+%=================================================================
+%
+\begin{document}
+%
+%=================================================================
+%
+\title[A Short Running Title]{New York City Taxi Fare Prediction}%
+
+\author{Runsha Pan}
+\address[A.~1]{School of Computer Science\\ 
+Hunan University, Shaanxi 710065, China}%
+\email[A.~1]{qq2724493252@163.com}
+
+
+
+
+
+
+%\thanks{Thanks to \ldots}%
+\subjclass{Artificial Intelligence}%
+\date{\gitAuthorDate}%
+
+\input{./tex/abstract}
+
+
+\maketitle
+\tableofcontents
+
+\newpage
+%=================================================================
+
+\input{./tex/mainbody}
+
+% ----------------------------------------------------------------
+\newpage
+\bibliography{tuliplab,yourbib}
+% TODO: you should change this yourbib into a proper bib file name
+\bibliographystyle{plainnat}
+%=================================================================
+
+\listoftodos
+
+\end{document}
+
