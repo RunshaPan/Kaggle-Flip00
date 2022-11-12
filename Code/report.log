@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2022.9.3)  12 NOV 2022 20:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2022.9.3)  12 NOV 2022 23:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/000研究生/kaggle/Flip00-kaggle/Report/templatex/report
-(d:/000研究生/kaggle/Flip00-kaggle/Report/templatex/report.tex
+**d:/000研究生/kaggle/Flip00-kaggle/Code/report
+(d:/000研究生/kaggle/Flip00-kaggle/Code/report.tex
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> (d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/tex/latex/amscls/amsart.cls
 Document Class: amsart 2017/10/31 v2.20.4
@@ -1026,9 +1026,9 @@ Package: xstring 2019/02/06 v1.83 String manipulations (CT)
 ) (d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
 )
-Package gitinfo2 Info: gitinfo2 found : ../../.git/gitHeadInfo.gin
+Package gitinfo2 Info: gitinfo2 found : ../.git/gitHeadInfo.gin
 (gitinfo2)              on input line 128.
- (../../.git/gitHeadInfo.gin) (d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/tex/latex/gitinfo2/gitexinfo.sty
+ (../.git/gitHeadInfo.gin) (d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/tex/latex/gitinfo2/gitexinfo.sty
 Package: gitexinfo 2015/11/22 v2.0.7 Auxiliary package for gitinfo2
 )) (d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footers
@@ -1375,15 +1375,15 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 67.
  ) 
 Here is how much of TeX's memory you used:
- 33411 strings out of 480608
- 673422 string characters out of 5894771
- 1084012 words of memory out of 5000000
- 48401 multiletter control sequences out of 15000+600000
+ 33409 strings out of 480608
+ 673343 string characters out of 5894771
+ 1083991 words of memory out of 5000000
+ 48400 multiletter control sequences out of 15000+600000
  542124 words of font info for 85 fonts, out of 8000000 for 9000
  1302 hyphenation exceptions out of 8191
- 71i,14n,102p,983b,762s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 71i,14n,102p,971b,762s stack positions out of 5000i,500n,10000p,200000b,80000s
 <d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb><d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb><d:/ruanjiananzhuang/Textlive/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on report.pdf (5 pages, 322038 bytes).
+Output written on report.pdf (5 pages, 322226 bytes).
 PDF statistics:
  142 PDF objects out of 1000 (max. 8388607)
  96 compressed objects within 1 object stream
